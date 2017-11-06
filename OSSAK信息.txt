@@ -1,0 +1,8 @@
+﻿RAM访问控制 子账号（只有OSS操作权限）
+AccessKeyId,AccessKeySecret
+LTAIJH7nzlN0mQOX,C2blpAmGaSZFNIRRYEaOGkkbySk0sB
+
+总账号（权限最大）
+LTAIXDtaj44yuUUl，0UaQZMNr1IOx6oq6ksXqAc2DKwbUoh
+
+e5d76c336784906d60a6c4e6dfec8c65   docker swarm token值
